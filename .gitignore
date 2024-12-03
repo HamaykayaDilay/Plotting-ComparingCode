@@ -1,0 +1,8 @@
+.idea/
+.venv/
+comparison_plots_2/
+Comparison_plots_3/
+*.tar.xz
+*.zip
+results/
+
