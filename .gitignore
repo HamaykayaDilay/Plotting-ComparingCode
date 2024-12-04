@@ -5,4 +5,10 @@ Comparison_plots_3/
 *.tar.xz
 *.zip
 results/
-
+Comparisons
+Comparisons_02/
+plotting2.py/
+plotting_all.py/
+plotting_app.py/
+plotting_with_names.py/
+tries.py/
